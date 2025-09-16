@@ -53,6 +53,9 @@ It includes:
 | Swagger (Optional) | API Documentation |
 
 ---
+## Workflow Diagram
+**<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/e6ff4139-8657-4591-9ad4-efac44c6b10f" />
+**
 
 ## 📝 Installation
 
